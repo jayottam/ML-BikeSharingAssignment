@@ -39,7 +39,7 @@
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@jayottam] - feel free to contact me!
 
 
 <!-- Optional -->
